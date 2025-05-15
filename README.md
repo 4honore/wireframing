@@ -39,3 +39,67 @@ Represents interactive components like buttons, input fields, sliders, and other
 
 **Example**: A login form wireframe showing username and password fields along with a "Submit" button defines how users will log into the system.
 
+## Types of Wireframes
+
+Wireframes can be categorized based on their level of detail and visual fidelity. The two most common types are:
+
+### Low-Fidelity Wireframes
+
+Low-fidelity (lo-fi) wireframes are basic sketches or digital mockups that focus on structure and layout without much detail or styling. They use placeholders (e.g., boxes, lines, and labels) to represent content.
+
+- **Used When**: In the early stages of the design process.
+- **Purpose**: To brainstorm ideas, explore layout options, and gather initial feedback.
+- **Tools**: Pen and paper, Balsamiq, or simple wireframe tools.
+
+### High-Fidelity Wireframes
+
+High-fidelity (hi-fi) wireframes are more detailed and closer to the actual design. They may include specific fonts, images, spacing, colors, and even interactive elements.
+
+- **Used When**: In the later stages of design, after the structure is validated.
+- **Purpose**: To present a realistic view of the final product and conduct more accurate usability testing.
+- **Tools**: Figma, Adobe XD, Sketch, or other advanced UI tools.
+
+## What Type of Wireframe is Here?
+
+The wireframe used in this repository is a **Low-Fidelity Wireframe**.
+
+- **Reason**: It is intended to quickly map out the layout and structure of a web page before detailed styling and development begins. It allows for fast changes and early feedback from stakeholders.
+
+## Wireframing Tools
+
+A variety of tools are available to create wireframes, ranging from simple sketching apps to advanced design software. Some popular wireframing tools include:
+
+- **Figma**: A powerful, browser-based design tool that supports real-time collaboration and sharing. It allows users to create both low- and high-fidelity wireframes with ease.
+- **Balsamiq**: Known for its simple drag-and-drop interface that creates sketch-style wireframes, ideal for early-stage planning.
+- **Adobe XD**: A design and prototyping tool with strong wireframing capabilities and seamless integration with other Adobe products.
+- **Sketch**: A macOS-based tool focused on UI design, useful for high-fidelity wireframes and prototypes.
+
+### Why Use Figma?
+
+Figma is highly recommended because of its cloud-based nature, which enables teams to collaborate in real time. Designers can create reusable components, manage design systems, and gather feedback—all within the same interface. Its intuitive interface and community resources make it ideal for both beginners and professionals.
+
+## Benefits of Wireframing in Software Development
+
+Wireframing plays a vital role in the software development lifecycle. Here’s how:
+
+- **Improves Communication**: Wireframes act as a visual language for designers, developers, and stakeholders, reducing misunderstandings and aligning everyone’s expectations.
+  - *Example*: A client reviewing a wireframe can provide feedback before developers write any code, preventing rework later.
+- **Guides the Design Process**: Wireframes help teams focus on structure and flow before committing to visual styles or development.
+  - *Example*: Developers can begin setting up the layout and components based on wireframe structure, even before final designs are complete.
+- **Identifies Usability Issues Early**: Wireframes allow teams to test user flows and page structure early, catching potential issues before they become costly.
+  - *Example*: If users can’t easily find the “Sign Up” button in the wireframe, the design can be adjusted before any implementation.
+
+## Wireframing in Practice
+
+### Real-World Scenario
+
+A startup company was designing an e-commerce website. During the wireframing stage, they created low-fidelity wireframes of the product listing and checkout pages. Early user testing of these wireframes revealed a major usability issue: users were confused about how to apply discount codes and where to find shipping options.
+
+### Resolution
+
+Based on the feedback, the design team added clearer labels, a help tooltip, and repositioned the discount field to a more visible location. These changes were made in the wireframe before any development began, saving significant time and development costs.
+
+### Outcome
+
+The final product was much more intuitive and user-friendly. The company reported fewer customer support inquiries and a higher checkout completion rate after launch.
+
